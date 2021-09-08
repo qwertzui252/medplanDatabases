@@ -1,0 +1,7 @@
+Vorarbeiten:
+- grails Projekt anlegen
+- graddle.properties
+	-gorm.version=7.0.6.RELEASE
+	+gorm.version=7.0.7.RELEASE
+- Domain Amdb.groovy
+- Domain Uawdb.groovy
